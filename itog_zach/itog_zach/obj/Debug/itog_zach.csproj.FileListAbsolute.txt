@@ -1,0 +1,10 @@
+E:\tables\itog_zach\itog_zach\bin\Debug\itog_zach.exe.config
+E:\tables\itog_zach\itog_zach\bin\Debug\itog_zach.exe
+E:\tables\itog_zach\itog_zach\bin\Debug\itog_zach.pdb
+E:\tables\itog_zach\itog_zach\obj\Debug\itog_zach.csprojAssemblyReference.cache
+E:\tables\itog_zach\itog_zach\obj\Debug\itog_zach.Properties.Resources.resources
+E:\tables\itog_zach\itog_zach\obj\Debug\itog_zach.csproj.GenerateResource.cache
+E:\tables\itog_zach\itog_zach\obj\Debug\itog_zach.csproj.CoreCompileInputs.cache
+E:\tables\itog_zach\itog_zach\obj\Debug\itog_zach.exe
+E:\tables\itog_zach\itog_zach\obj\Debug\itog_zach.pdb
+E:\tables\itog_zach\itog_zach\obj\Debug\itog_zach.frm.resources
